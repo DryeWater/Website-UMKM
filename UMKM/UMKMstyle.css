@@ -1,0 +1,32 @@
+.tabs {
+    position: relative;
+    font-size:300%;
+    background-color:#f4d548;
+    width: 90px;
+    height: 70px;
+    border-radius: 20px;
+}
+
+.logo {
+    position: relative;
+    width: 150x;
+    height: 70px;
+    background-color:#f4d548;
+
+}
+
+p {
+    font-size:300%;
+}
+
+body {
+    background-color: #2d152f;
+}
+
+.lines {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 20px;
+    top: 10px;
+}
