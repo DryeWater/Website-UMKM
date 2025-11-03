@@ -13,4 +13,4 @@ Bootstrap
 
 Progress saat ini: Sudah ada landing page dan home page dengan search bar
 
-Cara membuka website: download file UMKM,buka UMKM.html di browser terpilih
+Cara membuka website: download folder UMKM,buka UMKM.html di browser terpilih
