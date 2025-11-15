@@ -1,0 +1,44 @@
+ .custom-background-color-1 {
+    background-color: #2d152f;
+    overflow-x: hidden;
+}
+
+.custom-head-color-1 {
+    background-color: #f5aa27;
+}
+
+.no-padding-margin {
+    margin: 0;
+    padding: 0;
+}
+
+.custom-font-1 {
+    color: #e2a9f1;
+    font-family: "poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.custom-font-2 {
+    color: #ffffff;
+    font-family: "poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.gradient-1 {
+    background-image: linear-gradient(to top,#f5a92782,#e3a9f161,#ffffff00);
+    height: 100%;
+    position: relative;
+    top: 50%;
+}
+.custom-border-color-1 {
+    background: 
+        linear-gradient(white, white) padding-box,
+        linear-gradient(to right,#f5a92782,#e3a9f161) border-box;
+        border-radius: 30px;
+        border: 4px solid;
+        border-image-slice: 1;
+}
+.hide {
+    display: none;
+}
