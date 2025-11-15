@@ -11,4 +11,5 @@ CSS
 Javascript
 Bootstrap
 
-Cara membuka website: download folder UMKM,buka UMKM.html di browser terpilih
+Cara membuka website: download folder UMKM,
+                      pencet dua kali index.html
